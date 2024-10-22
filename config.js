@@ -73,11 +73,11 @@ global.prefix = '.';
 
 global.autobio = false;
 
-global.antilink = false;
+global.antilink = true;
 
-global.antilinkkick = false;
+global.antilinkkick = true;
 
-global.antilinkwarn = false;
+global.antilinkwarn = true;
 
 //_____________//
 // Don't change it
